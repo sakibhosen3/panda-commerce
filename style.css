@@ -14,3 +14,22 @@
 .price{
   color: #ff136f;
 }
+.cat1{
+  background-image: linear-gradient(to right, red , yellow);
+}
+.cat2{
+  background-image: linear-gradient(to right, blue , aqua);
+}
+.cat3{
+  background-image: linear-gradient(to right, indianred, green );
+}
+.cat1, .cat2, .cat3{
+  padding: 10px 30px;
+  border-radius: 15px;
+}
+.categories h1{
+  color: white;
+}
+.categories img{
+  width: 100px;
+}
